@@ -1,0 +1,16 @@
+<svg opacity="0.26" xmlns="http://www.w3.org/2000/svg" viewBox="-150 -122 150 122">
+  <!-- Brahma Kamal, closed bud (light backgrounds). Petal fill set to GitHub light background. -->
+  <style>path,ellipse{vector-effect:non-scaling-stroke}</style>
+  <g fill="none" stroke="#6B4FA8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0,0 C-14,0 -32,1 -39.5,-0.6"/>
+    <g transform="translate(-43.9,-18.1) rotate(-14)">
+      <path d="M0,2 C-18,0 -34,-6 -42,2 C-44,5 -42,9 -39,9 C-32,2 -16,4 0,2Z" fill="#ffffff"/>
+      <path d="M0,2 C18,0 34,-6 42,2 C44,5 42,9 39,9 C32,2 16,4 0,2Z" fill="#ffffff"/>
+      <path d="M0,0 C-20,-14 -22,-50 -4,-82 C-2,-79 2,-79 4,-82 C22,-50 20,-14 0,0Z" fill="#ffffff"/>
+      <path d="M0,-2 C-10,-24 -10,-56 -4,-82 M0,-2 C10,-24 10,-56 4,-82"/>
+      <path d="M0,2 C-22,-4 -30,-24 -24,-46 C-20,-30 -12,-12 0,2Z" fill="#ffffff"/>
+      <path d="M0,2 C22,-4 30,-24 24,-46 C20,-30 12,-12 0,2Z" fill="#ffffff"/>
+      <path d="M0,0 C-4,6 -4,14 0,18 C4,14 4,6 0,0" fill="#ffffff"/>
+    </g>
+  </g>
+</svg>
